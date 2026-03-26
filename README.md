@@ -1,4 +1,4 @@
-# Task6_elevatelabs
+# Sales-performance-trend-analysis
 # Sales Trend Analysis Using PostgreSQL
 
 ## Objective:
